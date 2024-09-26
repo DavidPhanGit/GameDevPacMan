@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: bab67042d979b4c05a53f5d872aa2057
+guid: 8ba9cd1996d8a46f59944975e5a9889a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1915776564401465818
-    second: Fish_0
+      213: 1258283971442599525
+    second: SunSeaweedPallet_0
+  - first:
+      213: 340214996615322619
+    second: SunSeaweedPallet_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +49,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 0
   spriteMeshType: 1
   alignment: 0
@@ -113,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Fish_0
+      name: SunSeaweedPallet_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 6
-        width: 27
-        height: 20
+        x: 5
+        y: 4
+        width: 22
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,8 +130,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 62615d96d5bc965e0800000000000000
-      internalID: -1915776564401465818
+      spriteID: 5666768fa92567110800000000000000
+      internalID: 1258283971442599525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunSeaweedPallet_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 4
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb5484acbfa8b400800000000000000
+      internalID: 340214996615322619
       vertices: []
       indices: 
       edges: []
@@ -136,7 +160,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: f33dd8da6d1024825b2399271b2cb2b8
+    spriteID: 637a70968f3814f30b5dfe86b490cb62
     internalID: 0
     vertices: []
     indices: 
@@ -144,7 +168,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Fish_0: -1915776564401465818
+      SunSeaweedPallet_0: 1258283971442599525
+      SunSeaweedPallet_1: 340214996615322619
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
