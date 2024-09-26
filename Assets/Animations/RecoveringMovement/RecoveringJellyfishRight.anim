@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: JellyfishYAnimation
+  m_Name: RecoveringJellyfishRight
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -21,9 +21,9 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: -1029119704815194340, guid: 734174a8ccc6546b28ae975a49d81d89, type: 3}
+      value: {fileID: 8911932952856319583, guid: 8eba62a33000941d88f240f9deec9f35, type: 3}
     - time: 0.16666667
-      value: {fileID: -1055949834266715308, guid: 734174a8ccc6546b28ae975a49d81d89, type: 3}
+      value: {fileID: 7128012997955058652, guid: 8eba62a33000941d88f240f9deec9f35, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -46,8 +46,8 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: -1029119704815194340, guid: 734174a8ccc6546b28ae975a49d81d89, type: 3}
-    - {fileID: -1055949834266715308, guid: 734174a8ccc6546b28ae975a49d81d89, type: 3}
+    - {fileID: 8911932952856319583, guid: 8eba62a33000941d88f240f9deec9f35, type: 3}
+    - {fileID: 7128012997955058652, guid: 8eba62a33000941d88f240f9deec9f35, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
