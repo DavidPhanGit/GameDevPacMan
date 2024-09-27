@@ -3,15 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Fish
+  - Seaweed
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Fish
   - Water
   - UI
-  - 
+  - Seaweed
   - 
   - 
   - 
@@ -38,6 +40,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Fish
+    uniqueID: 43050175
+    locked: 0
+  - name: Seaweed
+    uniqueID: 543764973
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
